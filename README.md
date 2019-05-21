@@ -9,11 +9,11 @@
  1. Heroku
 
  ### Future Development
- - [] Change overall layout with some SASS.
- - [] Add own server with MongoDB, Node & Express.
- - [] Add calendar with FullCalendar.io
- - [] Add Notification with Twillio.
- - [] Deploy onto AWS
+ [] Change overall layout with some SASS.
+ [] Add own server with MongoDB, Node & Express.
+ [] Add calendar with FullCalendar.io
+ [] Add Notification with Twillio.
+ [] Deploy onto AWS
 
 
  Check out the live demo [here](https://peaceful-thicket-10418.herokuapp.com/).
