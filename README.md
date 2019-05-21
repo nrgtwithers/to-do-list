@@ -10,9 +10,13 @@
 
  ### Future Development
  [] Change overall layout with some SASS.
+
  [] Add own server with MongoDB, Node & Express.
+
  [] Add calendar with FullCalendar.io
+
  [] Add Notification with Twillio.
+ 
  [] Deploy onto AWS
 
 
